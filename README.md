@@ -1,2 +1,2 @@
 # test-file
-ds store
+test repo
